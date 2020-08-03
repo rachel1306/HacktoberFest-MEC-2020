@@ -1,0 +1,70 @@
+    body {
+        background-image: radial-gradient(darkslategrey, black);
+        background-size: cover;
+        height: 500px;
+        background-position: center;
+        position: relative;
+    }
+    
+    i:hover {
+        background-color: lightslategrey;
+    }
+    
+    h1 {
+        text-align: center;
+        font-family: cursive;
+        font-size: 80px;
+        color: blanchedalmond;
+    }
+    
+    .shadow {
+        text-shadow: 2px 2px 18px aliceblue;
+    }
+    
+    .fa {
+        font-size: 30px;
+        width: 30px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+    }
+    
+    a {
+        font-size: xx-large;
+        color: burlywood;
+        text-decoration: none;
+    }
+    
+    .fa-instagram {
+        padding: 10px;
+        margin-left: 40%;
+        color: antiquewhite;
+        background-color: gray;
+        margin-top: 5px;
+        margin-bottom: 25px;
+    }
+    
+    .fa-github {
+        padding: 10px;
+        margin-left: 40%;
+        color: antiquewhite;
+        background-color: gray;
+        margin-bottom: 20px;
+    }
+    
+    .fa-linkedin {
+        padding: 10px;
+        margin-left: 40%;
+        color: antiquewhite;
+        background-color: gray;
+        margin-top: 15px;
+    }
+    
+    .fa-google {
+        padding: 10px;
+        margin-left: 40%;
+        color: antiquewhite;
+        background-color: gray;
+        margin-bottom: 15px;
+        margin-top: 10px;
+    }

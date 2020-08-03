@@ -1,0 +1,29 @@
+#mySidenav a {
+    position: absolute;
+    left: -125px;
+    transition: 0.4s;
+    padding: 15px;
+    text-align: center;
+    width: 130px;
+    text-decoration: none;
+    font-size: 20px;
+    color: antiquewhite;
+    border-radius: 0 5px 5px 0;
+    background-color: brown;
+}
+
+#mySidenav a:hover {
+    left: 0;
+}
+
+#t2 {
+    top: 65px;
+}
+
+#t1 {
+    top: 0px;
+}
+
+#t3 {
+    top: 130px;
+}
